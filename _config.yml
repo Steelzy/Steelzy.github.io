@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "CSDN",
+        href: "https://blog.csdn.net/qq_37380575"
     },{
         title: "简书",
         href: "http://www.jianshu.com"
